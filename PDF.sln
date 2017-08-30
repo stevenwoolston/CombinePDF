@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PDF", "PDF.csproj", "{E0CEF714-0C0B-4A25-A9C6-378B57EA6669}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E0CEF714-0C0B-4A25-A9C6-378B57EA6669}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0CEF714-0C0B-4A25-A9C6-378B57EA6669}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0CEF714-0C0B-4A25-A9C6-378B57EA6669}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0CEF714-0C0B-4A25-A9C6-378B57EA6669}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://stevenwoolston.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = PDF.csproj
+		SccLocalPath1 = .
+	EndGlobalSection
+EndGlobal
